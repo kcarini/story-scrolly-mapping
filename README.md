@@ -8,7 +8,7 @@ Some of these cost money, some are open source. Browse them all and see what mee
 * [Mapbox Interactive Storytelling](https://mapbox.com/solutions/interactive-storytelling)
 * [Google Earth Studio](https://google.com/earth/studio/)
 * [Cesium Stories](https://cesium.com/blog/2020/01/28/cesium-stories/)
-* [Knight Lab StoryMapJS](https://storymap.knightlab.com/) [Example](https://publications.newberry.org/time-machine/)
+* [Knight Lab StoryMapJS](https://storymap.knightlab.com/) ([Example](https://publications.newberry.org/time-machine/))
 * [Scrollmagic.io](https://scrollmagic.io/) [Example](https://earthobservatory.nasa.gov/features/pacific-crest-trail)
 * [GeoLayers - Maps for Adobe After Effects](https://aescripts.com/geolayers/)
 * [firef.ly app](https://firef.ly/#features)
