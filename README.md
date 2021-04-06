@@ -23,4 +23,4 @@ Some of these cost money, some are open source. Browse them all and see what mee
 * [Neatline](https://neatline.org/) for [Omeka](https://omeka.org/)
 * [D3.js](https://d3js.org/) + [Waypoints.js](http://imakewebthings.com/waypoints/) ([Example](https://petrichor.studio/2018/01/whatsyourvoteworth/))
 * [ScrollStory](http://sjwilliams.github.io/scrollstory/)
-* [Storymap.js](https://github.com/jakobzhao/storymap) ([Example] (https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html))
+* [Storymap.js](https://github.com/jakobzhao/storymap) ([Example](https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html))
